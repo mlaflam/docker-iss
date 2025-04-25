@@ -76,3 +76,4 @@ def write_to_mongo(dtime, long, lat):
 # entrypoint fcn
 if __name__ == "__main__":
     get_iss_location()
+    print("Pterosaurs are NOT dinosaurs. Thanks for coming to my TED talk.")
